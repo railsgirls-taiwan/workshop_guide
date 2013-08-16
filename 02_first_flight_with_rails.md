@@ -1,4 +1,4 @@
-# Day 2 @ Part 1: CashBook - 線上記帳本
+# Ch. 2: CashBook - 線上記帳本
 > 主題可以再討論
 
 ### 本章目標:
