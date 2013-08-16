@@ -6,6 +6,11 @@
 * 之後在同一台電腦上開發自己的網站時，這一章的步驟不需要再重複。
 * 建議學員打開檔案，用copy & paste進行操作
 
+##Quick Links
+* ###[Mac](https://github.com/railsgirls-taiwan/workshop_guide/blob/master/01_env_setup.md#mac)
+* ###[Linux](https://github.com/railsgirls-taiwan/workshop_guide/blob/master/01_env_setup.md#linux)
+* ###[Windows](https://github.com/railsgirls-taiwan/workshop_guide/blob/master/01_env_setup.md#windows)
+
 ## Mac
 
   *行前通知:* 請Mac user在前一天申請[Apple developer site](https://developer.apple.com/downloads/index.action)帳號
