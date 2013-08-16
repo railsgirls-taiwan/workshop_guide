@@ -1,5 +1,10 @@
 # Day 2, Part 1: CashBook - 線上記帳本 (主題可以再討論)
 
+###本章目標:
+
+* 了解如何建立一個新的專案
+* 了解如何使用Scaffold快速新增功能
+
 ## 把新網站設定起來
 
   1. ### 建一個新的網站專案:
@@ -18,7 +23,7 @@
 
 ## 新增第一個功能
 
-  1. ### Scaffold: 鷹架
+  1. ### Scaffold: 鷹架 - 快速建立功能的模版
         rails g scaffold record title:string amount:float date:date
 
     * 指令: rails 
