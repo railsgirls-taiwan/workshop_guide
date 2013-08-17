@@ -61,6 +61,8 @@
   1. ### 安裝Git及其它必要元件 (請協助除錯)
         sudo apt-get install git curl build-essential zlib1g-dev libssl-dev libreadline-dev xlcip
         echo "alias clipboard='clip -sel clip'" >> ~/.bashrc
+        git config --global user.name "你的名字"
+        git config --global user.email "你的Email"
 
   1. ### 安裝RVM
         \curl -L https://get.rvm.io | bash -s stable
