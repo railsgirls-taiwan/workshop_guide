@@ -13,9 +13,9 @@
 >  * 請Windows user下載Virtual Box
 
 ##Quick Links
-* ###[Mac](https://github.com/railsgirls-taiwan/workshop_guide/blob/master/01_env_setup.md#mac)
-* ###[Linux](https://github.com/railsgirls-taiwan/workshop_guide/blob/master/01_env_setup.md#linux)
-* ###[Windows](https://github.com/railsgirls-taiwan/workshop_guide/blob/master/01_env_setup.md#windows)
+* [Mac](https://github.com/railsgirls-taiwan/workshop_guide/blob/master/01_env_setup.md#mac)
+* [Linux](https://github.com/railsgirls-taiwan/workshop_guide/blob/master/01_env_setup.md#linux)
+* [Windows](https://github.com/railsgirls-taiwan/workshop_guide/blob/master/01_env_setup.md#windows)
 
 ## Mac
 
