@@ -14,10 +14,10 @@
 
   1. 按ctrl + p，輸入Gemfile，按下Enter開啟檔案
 
-  1. 在最後一行加入
-        group :asset do
-          gem 'twitter-bootstrap-rails'
-        end
+  1. 在檔案最底下加入
+        gem 'therubyracer'
+        gem 'less-rails'
+        gem 'twitter-bootstrap-rails'
 
   1. 按ctrl + s 存檔
 
@@ -32,12 +32,13 @@
 
   1. 自動產生基礎css檔案
 
-        rails g bootstrap:install static
-        rails g bootstrap:layout application fluid
+        rails g bootstrap:install
 
   1. 覆寫剛剛Scaffold的樣式
 
         rails g bootstrap:themed Records
+
+    出現Overwrite提示時，輸入a按下Enter
 
 ## 重新啟動Server
   1. 用什麼指令把server跑起來?
