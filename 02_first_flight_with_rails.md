@@ -46,3 +46,10 @@
     用瀏覽器開啟http://localhost:3000/records
 
 > 解釋一下剛剛自動產生了什麼東西, 特別是資料庫的部份
+
+## 把首頁設成`/reocrds`
+
+    1. 打開`config/routes.rb`，加入
+      ```ruby
+      root 'record#index
+      ```
