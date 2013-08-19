@@ -50,6 +50,9 @@
   1. ###安裝編輯器
      下載[Sublime Text](http://www.sublimetext.com/)然後安裝
 
+  1. ###安裝heroku toolbelt
+     下載[heroku toolbelt](https://toolbelt.heroku.com/)然後安裝
+
 ## Linux
 
   1. ### 更新apt-get，是yum的話請舉一反三
@@ -84,6 +87,8 @@
   1. ###安裝編輯器
      下載[Sublime Text](http://www.sublimetext.com/)然後安裝
 
+  1. ###安裝Heroku toolbelt
+     下載[heroku toolbelt](https://toolbelt.heroku.com/)然後安裝
 
 ## Windows
 
