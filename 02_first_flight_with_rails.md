@@ -6,39 +6,47 @@
 * 了解如何建立一個新的專案
 * 了解如何使用Scaffold快速新增功能
 
-> Rails的slogan: 'Convention over configuration', 'DRY'
 > Rails是框架，Ruby是語言
+
+> Rails的核心概念: 
+>> * Convention over configuration
+>> * DRY (Don't repeat yourself)
 
 ## 把新網站設定起來
 
-  1. 建一個新的網站專案:
+1. 建一個新的網站專案:
 
-        rails new CashBook
+  ```
+  rails new CashBook
+  ```
 
-    * 指令: rails 
-    * 動作: new 
-    * 專案名稱: *CashBook*
+  > * 指令 => rails 
+  > * 動作 => new 
+  > * 專案名稱 => _CashBook_
 
-  1. 切換到網站的目錄裡:
-        cd CashBook
+2. 切換到網站的目錄裡:
 
-  1. 建立資料庫:
-        rake db:create
+      cd CashBook
 
+3. 建立資料庫:
+
+      rake db:create
 
 ## 新增第一個功能
 
   1. Scaffold: 鷹架 - 快速建立功能的模版
 
-        rails g scaffold record title:string amount:float date:date
+    ```
+    rails g scaffold record title:string amount:float date:date
+    ```
 
-    * 指令: rails 
-    * 動作: generate (g 是縮寫)
-    * 種類: scaffold
-    * 名稱
-    * 欄位:資料類型
+  > * 指令 => rails 
+  > * 動作 => generate (g 是縮寫)
+  > * 種類 => scaffold
+  > * 名稱 => record
+  > * 欄位:資料類型 => title:string
 
-    其它資料類型: text, integer, boolean...
+  其它資料類型: text, integer, boolean...
 
   1. 叫Rails幫我們設定資料庫
 
@@ -63,5 +71,5 @@
   1. 打開`config/routes.rb`，加入
 
     ```ruby
-    root 'record#index
+    root 'record#index'
     ```
