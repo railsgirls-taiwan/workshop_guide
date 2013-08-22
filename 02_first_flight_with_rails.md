@@ -6,16 +6,18 @@
 * 了解如何建立一個新的專案
 * 了解如何使用Scaffold快速新增功能
 
+> Rails的slogan: 'Convention over configuration', 'DRY'
 > Rails是框架，Ruby是語言
 
 ## 把新網站設定起來
 
   1. 建一個新的網站專案:
+
         rails new CashBook
 
     * 指令: rails 
     * 動作: new 
-    * 專案名稱: _CashBook_ (自行設定)
+    * 專案名稱: *CashBook*
 
   1. 切換到網站的目錄裡:
         cd CashBook
@@ -27,29 +29,39 @@
 ## 新增第一個功能
 
   1. Scaffold: 鷹架 - 快速建立功能的模版
+
         rails g scaffold record title:string amount:float date:date
 
     * 指令: rails 
     * 動作: generate (g 是縮寫)
-    * 種類: scaffole
+    * 種類: scaffold
     * 名稱
     * 欄位:資料類型
 
     其它資料類型: text, integer, boolean...
 
   1. 叫Rails幫我們設定資料庫
+
         rake db:migrate
 
   1. 試試看你的作品吧，這個指令會把server(伺服器)跑起來
+
         rails s
 
-    用瀏覽器開啟http://localhost:3000/records
+    用瀏覽器開啟[http://localhost:3000/records](http://localhost:3000/records)
 
-> 解釋一下剛剛自動產生了什麼東西, 特別是資料庫的部份
+> scaffold自動產生了以下幾樣東西:
+>> * 一張叫records的資料表(複數喔)
+>> * 一個叫record.rb的model, 在app/models/裡
+>> * 一個叫records_controller的controller，在app/controllers/裡
+>> * 一組顯示的頁面，在app/views/records/裡
+>> * 一組網址(restful)
+>> * 相關的javascript, css檔案(其實是coffeescript及scss)
 
 ## 把首頁設成`/reocrds`
 
-    1. 打開`config/routes.rb`，加入
-      ```ruby
-      root 'record#index
-      ```
+  1. 打開`config/routes.rb`，加入
+
+    ```ruby
+    root 'record#index
+    ```
