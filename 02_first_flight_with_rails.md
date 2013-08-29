@@ -8,7 +8,7 @@
 
 > Rails是框架，Ruby是語言
 
-> Rails的核心概念: 
+> Rails的核心概念:
 >> * Convention over configuration
 >> * DRY (Don't repeat yourself)
 
@@ -20,8 +20,8 @@
   rails new CashBook
   ```
 
-  > * 指令 => rails 
-  > * 動作 => new 
+  > * 指令 => rails
+  > * 動作 => new
   > * 專案名稱 => _CashBook_
 
 2. 切換到網站的目錄裡:
@@ -40,7 +40,7 @@
     rails g scaffold record title:string amount:float date:date
     ```
 
-  > * 指令 => rails 
+  > * 指令 => rails
   > * 動作 => generate (g 是縮寫)
   > * 種類 => scaffold
   > * 名稱 => record
@@ -66,7 +66,7 @@
 >> * 一組網址(restful)
 >> * 相關的javascript, css檔案(其實是coffeescript及scss)
 
-## 把首頁設成`/reocrds`
+## 把首頁設成`/records`
 
   1. 打開`config/routes.rb`，加入
 
