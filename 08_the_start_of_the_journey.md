@@ -7,12 +7,14 @@
 ## 學習資源
 
   1. [Rails實戰聖經](http://ihower.tw/rails3/index.html) (中文)
-  1. [Ruby on Rails指南手冊](http://guides.ruby.tw/rails3/index.html) (中文，但版本較舊)
-  2. [Ruby on Rails Guides](http://guides.rubyonrails.org/) (英文)
-  3. [Codecademy](http://www.codecademy.com/learn) (HTML/CSS, Ruby, JavaScript, jQuery)
-  4. [RailsCasts](http://www.railscasts.com) (各種 gem 的教學, 部份課程需月費)
-  5. [CodeSchool: Ruby](http://www.codeschool.com/paths/ruby) (英文, 部份課程需月費)
-  6. [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) (英文)
+  2. [Ruby on Rails指南手冊](http://guides.ruby.tw/rails3/index.html) (中文，但版本較舊)
+  3. [Ruby on Rails Guides](http://guides.rubyonrails.org/) (英文)
+  4. [Codecademy](http://www.codecademy.com/learn) (HTML/CSS, Ruby, JavaScript, jQuery)
+  5. [RubyGems.org](https://rubygems.org/) gem 的大本營 (英文)
+  6. [Rubytoolbox](https://www.ruby-toolbox.com/) (英文)
+  7. [RailsCasts](http://www.railscasts.com) 重要的 gem 的影片教學 (部份課程需月費)
+  8. [CodeSchool: Ruby](http://www.codeschool.com/paths/ruby) (英文, 部份課程需月費)
+  9. [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) (英文)
 
 ## 社群
 
