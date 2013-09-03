@@ -10,7 +10,6 @@
 >
 >  * 請 Mac 使用者提前申請 [Apple developer](https://developer.apple.com/downloads/index.action)帳號，並下載命令行工具。
 >  * 請所有人申請 [Heroku](https://www.heroku.com/) 帳號。
->  * 請 Windows 使用者下載 Virtual Box。
 
 ## 目錄
 
@@ -109,19 +108,7 @@
 
 ## Windows
 
-* [Rails Installer](http://railsinstaller.org/en)
-
-* Virtual Box
-
-* Native?
-
-  其實不難裝
-
-  優點：
-
-  * 硬體要求沒有 VirtualBox 那麼高。
-
-  缺點：
-
-  * 命令提示字元很渣，用的指令要把 ls 改成 dir，然後斜線反向。
-  * 要 Compile 的 gem 也許有一些雷（聽說 bootstrap 沒問題了？）
+  1. 下載並安裝[VMWare Player](http://www.vmware.com/products/player/)
+  2. 跟教練追討映像檔
+  3. 請教練幫你設定好
+  4. 前往下一章
