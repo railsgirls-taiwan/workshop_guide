@@ -1,10 +1,12 @@
-# Ch. 3: 一分鐘讓網站變漂亮
+# Ch. 3: 一分鐘讓網站變漂亮 (Optional)
 
 ###本章目標:
 
 * 了解編輯器的基本操作
 * 了解如何使用Ruby gem來套用別人寫好的功能
 * 介紹一些有名的gems跟如何找到適合自己的gem
+
+> 
 
 ## 在專案中加入twitter-bootstrap-rails gem
 
@@ -47,9 +49,3 @@
 
     重新整理瀏覽器
 
-> 介紹底下這些網站跟devise, omniauth, kaminari...
-
-> * [RubyGems.org](https://rubygems.org/)
-> * [Rubytoolbox](https://www.ruby-toolbox.com/)
-> * [RailsCasts](http://railscasts.com/)
-> 
