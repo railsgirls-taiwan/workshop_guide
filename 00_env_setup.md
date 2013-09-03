@@ -21,7 +21,13 @@
 
 ### 1. OSX 命令行工具
 
-  [安裝檔下載](https://github.com/kennethreitz/osx-gcc-installer/downloads)
+  [OSX GCC Installer 安裝檔下載](https://github.com/kennethreitz/osx-gcc-installer/downloads)
+
+  從 [Apple Developer Center](https://developer.apple.com/) 下載 dmg 檔放隨身碟備用：
+
+  * XCode 4.6.3
+  * Command Line Tool 4.6.2 for 10.8
+  * Command Line Tool 4.6.2 for 10.7
 
 ### 2. 安裝 [Homebrew](http://brew.sh/index_zh-tw.html)
 
