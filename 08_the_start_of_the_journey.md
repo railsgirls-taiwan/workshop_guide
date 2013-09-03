@@ -10,13 +10,14 @@
   1. [Ruby on Rails指南手冊](http://guides.ruby.tw/rails3/index.html) (中文，但版本較舊)
   2. [Ruby on Rails Guides](http://guides.rubyonrails.org/) (英文)
   3. [Codecademy](http://www.codecademy.com/learn) (HTML/CSS, Ruby, JavaScript, jQuery)
-  4. [RailsCasts](http://www.railscasts.com) (各種gem的教學, 部份課程需月費)
+  4. [RailsCasts](http://www.railscasts.com) (各種 gem 的教學, 部份課程需月費)
   5. [CodeSchool: Ruby](http://www.codeschool.com/paths/ruby) (英文, 部份課程需月費)
 
 
 ## 加入更多的功能吧
 
-  1. 幫每個Category分別加上總計
-  2. 帳號登入 (OmniAuth或devise)
-  3. 加上統計圖表 (Morris.js或Highcharts)
-  4. 條件過濾 (ransack)
+  1. 加上網站導覽列
+  2. 幫每個Category分別加上總計
+  3. 帳號登入 (OmniAuth或devise)
+  4. 加上統計圖表 (Morris.js或Highcharts)
+  5. 條件過濾 (ransack)
