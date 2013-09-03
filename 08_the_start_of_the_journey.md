@@ -12,7 +12,11 @@
   3. [Codecademy](http://www.codecademy.com/learn) (HTML/CSS, Ruby, JavaScript, jQuery)
   4. [RailsCasts](http://www.railscasts.com) (各種 gem 的教學, 部份課程需月費)
   5. [CodeSchool: Ruby](http://www.codeschool.com/paths/ruby) (英文, 部份課程需月費)
+  6. [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) (英文)
 
+## 社群
+
+  1. [ruby.tw](http://ruby.tw)
 
 ## 加入更多的功能吧
 
