@@ -14,6 +14,10 @@
   5. [CodeSchool: Ruby](http://www.codeschool.com/paths/ruby) (英文, 部份課程需月費)
   6. [Ruby on Rails Tutorial](http://ruby.railstutorial.org/ruby-on-rails-tutorial-book) (英文)
 
+## 社群
+
+  1. [ruby.tw](http://ruby.tw)
+
 ## 加入更多的功能吧
 
   1. 幫每個Category分別加上總計
