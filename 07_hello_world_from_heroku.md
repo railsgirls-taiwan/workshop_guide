@@ -44,3 +44,7 @@
     ```
 
   1. 上一步跑完之後，會在倒數第三行印出一段網址，用瀏覽器打開看看吧。
+
+## 成果範例
+
+  [http://railsgirls-cashbook.herokuapp.com/](http://railsgirls-cashbook.herokuapp.com/)
